@@ -1,0 +1,1 @@
+$(".lighterbox").lighterbox({ overlayColor : "white" });
