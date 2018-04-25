@@ -6,6 +6,7 @@ $(document).ready(function() {
   $("#hide").click(function() {
   $(".container").hide();
 });
+});
 
 $(document).ready(function() {
 $("#show").click(function() {
