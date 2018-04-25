@@ -81,7 +81,7 @@ height: auto; */
   opacity: 0.5;
 } */
 
-h1 {
+h1, title {
   font-family: 'Cantata One', sans-serif;
   font-size: 60px;
   padding-top: 20px;
