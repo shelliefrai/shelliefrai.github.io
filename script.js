@@ -20,3 +20,10 @@ $("h2").hover(function() {
   $(".imghover").fadeIn(1000);
 });
 });
+
+$(document).ready(function(){
+  $("#home").click(function(){
+    $('#pagetitle').effect("shake", {times:4}, 1000);
+  });
+
+});
