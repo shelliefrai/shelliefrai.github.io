@@ -280,7 +280,7 @@ body, html {
 }
 
 #modernart1 {
-  background-color: RGB(199 219 244);
+  background-color: RGB(248 207 169);
   width: 200px;
   height: 20px;
   margin-left: 530px;
@@ -288,17 +288,17 @@ body, html {
 }
 
 #modernart2 {
-  background-color: RGB(199 219 244);
+  background-color: RGB(248 207 169);
   border-radius: 5px;
 }
 
 #retro2 {
-  background-color: RGB( 255 183 129);
+  background-color: RGB( 255 236 159);
   border-radius: 5px;
 }
 
 #retro1 {
-  background-color: RGB( 255 183 129);
+  background-color: RGB( 255 236 159);
   width: 200px;
   height: 20px;
   margin-left: 530px;
@@ -306,7 +306,7 @@ body, html {
 }
 
 #victorian1 {
-  background-color: RGB(184 171 216);
+  background-color: RGB(250 215 218);
   width: 200px;
   height: 20px;
   margin-left: 530px;
@@ -314,7 +314,7 @@ body, html {
 }
 
 #victorian2 {
-    background-color: RGB(184 171 216);
+    background-color: RGB(250 215 218);
       border-radius: 5px;
 }
 
